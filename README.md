@@ -30,7 +30,7 @@ The player tries to guess a randomly chosen word, one letter at a time, with a l
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/codealpha_tasks.git
+   git clone https://github.com/your-Mahak19m/codealpha_tasks.git
 2. Navigation into the project folder:
      ```bash
    cd codealpha_tasks
