@@ -36,4 +36,11 @@ The player tries to guess a randomly chosen word, one letter at a time, with a l
    cd codealpha_tasks
 3. Run the game:
   ```bash
-   python hangman.py 
+   python hangman.py
+
+ ---
+
+## 📸 Demo
+Here’s a screenshot of the Hangman game running:
+
+![Demo](Screenshot_2025-09-14_114933.png)
