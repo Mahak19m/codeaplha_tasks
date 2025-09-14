@@ -26,7 +26,14 @@ The player tries to guess a randomly chosen word, one letter at a time, with a l
 
 ---
 
-## ▶ How to Run
+## 📦 How to Run
+
 1. Clone this repository:
    ```bash
-    git clone https://github.com/your-username/codealpha_tasks.git   
+   git clone https://github.com/your-username/codealpha_tasks.git
+2. Navigation into the project folder:
+     ```bash
+   cd codealpha_tasks
+3. Run the game:
+  ```bash
+   python hangman.py 
