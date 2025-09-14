@@ -43,4 +43,4 @@ The player tries to guess a randomly chosen word, one letter at a time, with a l
 ## 📸 Demo
 Here’s a screenshot of the Hangman game running:
 
-![Demo](Screenshot_2025-09-14_114933.png)
+![Demo](Screenshot 2025-09-14 114943.png)
